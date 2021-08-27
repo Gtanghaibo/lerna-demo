@@ -1,0 +1,12 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: 'module-2'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/leo/code/lerna-gp
+3 error TypeError: Cannot convert undefined or null to object
+3 error     at Function.keys (<anonymous>)
+3 error     at module.exports (/Users/leo/code/lerna-gp/node_modules/npm-pick-manifest/index.js:213:22)

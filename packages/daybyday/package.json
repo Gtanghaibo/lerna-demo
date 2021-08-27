@@ -1,0 +1,16 @@
+{
+  "name": "daybyday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo daybyday"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "module-1": "^0.0.0"
+  }
+}

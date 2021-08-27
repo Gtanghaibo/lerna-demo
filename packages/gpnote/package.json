@@ -1,0 +1,32 @@
+{
+  "name": "gpnote",
+  "version": "0.0.0",
+  "description": "this is gpnote package",
+  "keywords": [
+    "gpnote"
+  ],
+  "author": "gogofun <tab231@163.com>",
+  "homepage": "https://github.com/Gtanghaibo/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/gpnote.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gtanghaibo/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo gpnode"
+  },
+  "bugs": {
+    "url": "https://github.com/Gtanghaibo/lerna-demo/issues"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
